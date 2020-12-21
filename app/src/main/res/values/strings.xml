@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">kelompok1g</string>
+
+    <array name="beratbadanideal">
+        <item>350gram</item>
+        <item>700gram</item>
+        <item>400gram</item>
+        <item>900gram</item>
+        <item>1kilogram</item>
+        <item>1.5kilogram</item>
+        <item>3kilogram</item>
+        <item>2.5kilogram</item>
+        <item>3.5kilogram</item>
+        <item>5kilogram</item>
+    </array>
+</resources>
